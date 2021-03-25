@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.exe
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.deps.json
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.runtimeconfig.json
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\bin\Debug\netcoreapp3.1\BinarySearchDecisionTree.pdb
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\obj\Debug\netcoreapp3.1\BinarySearchDecisionTree.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\obj\Debug\netcoreapp3.1\BinarySearchDecisionTree.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\obj\Debug\netcoreapp3.1\BinarySearchDecisionTree.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\obj\Debug\netcoreapp3.1\BinarySearchDecisionTree.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Binary-Search-Decision-Tree\BinarySearchDecisionTree\BinarySearchDecisionTree\obj\Debug\netcoreapp3.1\BinarySearchDecisionTree.pdb
