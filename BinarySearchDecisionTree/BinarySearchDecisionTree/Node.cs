@@ -117,7 +117,7 @@ namespace BinaryPrintDecisionsDecisionTree
 
         public string PrintDecisions()
         {
-            if(SData != null)
+            if (SData != null)
             {
                 Console.WriteLine(SData);
             }
@@ -125,7 +125,7 @@ namespace BinaryPrintDecisionsDecisionTree
             {
                 return Left.PrintDecisions();
             }
-            else if (Right != null)
+            if (Right != null)
             {
                 return Right.PrintDecisions();
             }

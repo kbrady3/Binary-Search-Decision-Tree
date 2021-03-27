@@ -65,8 +65,8 @@ namespace BinarySearchDecisionTree
                 Console.WriteLine("Error");
             }
 
-            Console.WriteLine("Decisions: \n");
-            n.PrintDecisions();
+            Console.WriteLine("Congrats! You've made a decision!");
+            //NOTE: Use PrintDecisions() to traverse tree.
         }
     }
 }
